@@ -1,0 +1,9 @@
+langchain
+openai
+python-dotenv
+jupyter
+wikipedia
+chromadb
+InstructorEmbedding
+tiktoken
+faiss-cpu
